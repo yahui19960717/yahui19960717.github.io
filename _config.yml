@@ -1,7 +1,7 @@
-title: Houquan Zhou
+title: Yahui Liu | NLPer
 position: Ph.D. Student
 affiliation: Soochow University
-email: Jacob_Zhou (at) outlook.com
+email: yahuiliu.nlp@foxmail.com
 
 plugins:
   - jekyll-spaceship
@@ -11,13 +11,13 @@ plugins:
 keywords: minimal academic
 description:
   PhD student [@SUDA-HLT](http://hlt.suda.edu.cn), Soochow University
-canonical: https://cv.hqzhou.com
+canonical: https://yahui19960717.github.io/
 
-semantic_scholar: https://www.semanticscholar.org/author/Houquan-Zhou/50986473
-google_scholar: https://scholar.google.com/citations?user=hJWovmAAAAAJ
+# semantic_scholar: https://www.semanticscholar.org/author/Houquan-Zhou/50986473
+# google_scholar: https://scholar.google.com/citations?user=hJWovmAAAAAJ
 # cv_link: ./assets/files/cv.pdf
-github_link: https://github.com/Jacob-Zhou
-arxiv_link: https://cv.hqzhou.com/arxiv
+github_link: https://github.com/yahui19960717
+# arxiv_link: https://cv.hqzhou.com/arxiv
 affiliation_link: https://www.suda.edu.cn
 
 avatar: ./assets/img/avatar.jpg
