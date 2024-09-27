@@ -4,7 +4,7 @@ layout: default
 
 👋 Hi, my name is **Yahui Liu (刘亚慧)**. 
 - 🎓 I’m currently a fifth-year PhD student at [SUDA-HLT](https://github.com/SUDA-LA) .
-- 🌱 I’m a NLPer.
+- 🌱 I’m an NLPer.
 - 👨‍🏫 I'm co-advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
 - 🧐 My main research interests include syntax, semantics, part-of-speech and related areas.
 
