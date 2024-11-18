@@ -33,7 +33,7 @@ layout: default
   * **A Lightweight Annotation Guideline of Chinese Semantic Role Labeling**  <br>
     *__Yahui Liu__, Haoping Yang, Zhenghua Li, Min Zhang* <br>
     **Journal of Chinese Information Processing, 2020.(in Chinese, CCF-B)**  <br> 
-    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](http://jcip.cipsc.org.cn/CN/Y2020/V34/I4/10])
+    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](http://jcip.cipsc.org.cn/CN/Y2020/V34/I4/10)
 
   ### Competition
 
