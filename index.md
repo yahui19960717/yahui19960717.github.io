@@ -14,7 +14,9 @@ layout: default
   * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
     *__Yahui Liu__, Chen Gong, Min Zhang* <br>
     **CCL 2024** <br>
+    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.pdf)
     [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL2024-CFSP-LLM)
+    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL2024-CFSP-LLM.git.)
 
   * **System Report for CCL23-Eval Task3: SUDA CFSP System** <br> 
     *__Yahui Liu__, Zhenghua Li, Min Zhang* <br>
