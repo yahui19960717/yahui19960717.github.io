@@ -11,6 +11,11 @@ layout: default
 
   ### Publications
 
+  * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
+    *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br>
+    **ESWA 2025 (SCI A1)** <br>
+    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](Publication underway)
+
   * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
     *__Yahui Liu__, Chen Gong, Min Zhang* <br>
     **CCL 2024** <br>
