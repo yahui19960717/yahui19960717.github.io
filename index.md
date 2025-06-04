@@ -14,13 +14,15 @@ layout: default
   * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
     *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br>
     **ESWA 2025 (SCI A1)** <br>
-    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](Publication underway)
+    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://www.sciencedirect.com/science/article/pii/S0957417425019931)
+    [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://www.sciencedirect.com/science/article/pii/S0957417425019931?via%3Dihub)
+    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/POS_AED.git)
 
   * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
     *__Yahui Liu__, Chen Gong, Min Zhang* <br>
     **CCL 2024** <br>
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.pdf)
-    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL2024-CFSP-LLM)
+    [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.bib)
     [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL2024-CFSP-LLM.git.)
 
   * **System Report for CCL23-Eval Task3: SUDA CFSP System** <br> 
