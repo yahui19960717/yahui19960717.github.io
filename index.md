@@ -23,7 +23,7 @@ layout: default
     **CCL 2024** <br>
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.pdf)
     [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.bib)
-    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL2024-CFSP-LLM.git.)
+    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL2024-CFSP-LLM))
 
   * **System Report for CCL23-Eval Task3: SUDA CFSP System** <br> 
     *__Yahui Liu__, Zhenghua Li, Min Zhang* <br>
