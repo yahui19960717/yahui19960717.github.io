@@ -45,7 +45,8 @@ layout: default
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](http://jcip.cipsc.org.cn/CN/Y2020/V34/I4/10)
 
   ### Competition
-
+  * **🥈 Second prize in the [CCL 2025](http://cips-cl.org/static/CCL2025/cclEval/taskResults/index.html) Task2: The Third Chinese Frame Semantic Parsing** <br>
+    *2025.08*
   * **🏆 First prize in the [CCL 2024](http://cips-cl.org/static/CCL2024/cclEval/taskEvaluation/index.html) Task1: The Second Chinese Frame Semantic Parsing** <br>
     *Open Track* <br>
     *2024.07*<br>
