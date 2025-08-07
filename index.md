@@ -8,7 +8,7 @@ layout: default
 - 👨‍🏫 I'm co-advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
 - 🧐 My main research interests include syntax, semantics, part-of-speech and related areas.
 
- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yahui19960717.yahui19960717&title=Visitor%20Count)
+
 
 
   ### Publications
