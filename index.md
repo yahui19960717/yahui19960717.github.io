@@ -55,7 +55,7 @@ layout: default
   * **🥉 Third prize in the [CCL 2023](http://cips-cl.org/static/CCL2023/cclEval/taskResults/index.html) Task3: Chinese Frame Semantic Parsing** <br>
     *2023.08*
 
-  ### Experience
+  ### Education
 
   * **PHD student at Soochow University, co-advised by Prof. Zhenghua Li and Prof. Min Zhang**  <br>
     *2020-present*
