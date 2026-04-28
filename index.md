@@ -21,6 +21,14 @@ layout: default
     [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/POS_AED.git)
 
   * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
+    *__Yahui Liu__, Ziheng Qiao, Chen Gong, Min Zhang* <br>
+    **CCL 2025** <br>
+    [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2025.ccl-2.5.pdf)
+    [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://aclanthology.org/2025.ccl-2.5.bib)
+    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/CCL-2025-CFN)
+
+
+  * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
     *__Yahui Liu__, Chen Gong, Min Zhang* <br>
     **CCL 2024** <br>
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.pdf)
