@@ -20,7 +20,7 @@ layout: default
     [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://www.sciencedirect.com/science/article/pii/S0957417425019931?via%3Dihub)
     [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/POS_AED.git)
 
-  * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
+  * **System Report for CCL25-Eval Task 2: Enhanced Chinese Frame Semantic Parsing with Pre-trained Model and Linguistic Features** <br>
     *__Yahui Liu__, Ziheng Qiao, Chen Gong, Min Zhang* <br>
     **CCL 2025** <br>
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2025.ccl-2.5.pdf)
