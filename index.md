@@ -72,6 +72,16 @@ layout: default
 
 * **Applied AI experience.** I participated in platform testing, content iteration, community operation, and user feedback analysis for an LLM-based interactive entertainment product.
 
+### Funded Projects
+
+* **Knowledge-driven Chinese network text dependency syntax analysis**, National Natural Science Foundation of China, 2019.01-2022.12, participant.
+
+* **Cross-domain Chinese sentence semantic analysis with multi-source knowledge**, National Natural Science Foundation of China, 2022.01-2025.12, participant.
+
+* **Unified representation and analysis of word-level and sentence-level Chinese dependency structures**, National Natural Science Foundation of China, 2024.12-present, participant.
+
+* **Correction and interpretation of complex Chinese text errors based on large language models**, National Natural Science Foundation of China, 2025.12-present, participant.
+
 ### Teaching
 
 * **Teaching Assistant, Computational Linguistics**, Soochow University.
