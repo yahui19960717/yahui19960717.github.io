@@ -70,7 +70,7 @@ layout: default
 
 * **Chinese semantic resource construction.** I participated in projects on Chinese predicate-argument analysis and cross-domain semantic parsing, contributing to annotation guideline design, corpus construction, data quality control, and evaluation.
 
-* **Applied AI experience.** I participated in platform testing, content iteration, community operation, and user feedback analysis for an LLM-based interactive entertainment product.
+* **Qingjiao Simulator.** As a core member of Qingjiao Simulator, I participated in platform testing, content iteration, community operation, and user feedback analysis for an LLM-based interactive entertainment product. More projects from our team can be found at [wortou.ai](https://wortou.ai/).
 
 ### Funded Projects
 
@@ -88,7 +88,7 @@ layout: default
 
 ### Service
 
-* **NICE International AI Academic Community.** I participated in content communication and activity organization for AI/NLP talks and academic events.
+* **NICE International AI Academic Community.** I participated in content communication and activity organization for AI/NLP talks and academic events. [NICE Homepage](https://nice-intl.github.io/zh.html)
 
 ### Education
 
