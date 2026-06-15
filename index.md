@@ -9,7 +9,7 @@ layout: default
 - 🎓 I am a Ph.D. student at [SUDA-HLT](https://github.com/SUDA-LA), Soochow University.
 - 👨‍🏫 I am co-advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
 - 🌱 My research focuses on natural language processing, especially syntax and semantics, semantic role labeling, frame semantic parsing, corpus construction, and annotation data quality.
-- 🧐 I am interested in building reliable linguistic resources and robust NLP methods for syntax and semantic analysis.
+- 🧐 I am interested in building reliable linguistic resources and robust NLP methods for syntax and semantic analysis. I am also exploring LLM-assisted programming and human-AI collaborative creation for interactive content generation, including vibe-coding games developed by the Tenure-Track Simulator team.
 
 ### Publications
 
@@ -70,17 +70,17 @@ layout: default
 
 * **Chinese semantic resource construction.** I participated in projects on Chinese predicate-argument analysis and cross-domain semantic parsing, contributing to annotation guideline design, corpus construction, data quality control, and evaluation.
 
-* **Qingjiao Simulator.** As a core member of Qingjiao Simulator, I participated in platform testing, content iteration, community operation, and user feedback analysis for an LLM-based interactive entertainment product. More projects from our team can be found at [wortou.ai](https://wortou.ai/).
+* **AI interactive entertainment project-Tenure-Track Simulator.** As a core member of Tenure-Track Simulator, I participated in platform testing, content iteration, community operation, and user feedback analysis for an LLM-based interactive entertainment product. More projects from our team can be found at [wortou.ai](https://wortou.ai/).
 
 ### Funded Projects
 
-* **Knowledge-driven Chinese network text dependency syntax analysis**, National Natural Science Foundation of China, 2019.01-2022.12, participant.
+* **Knowledge-driven Chinese network text dependency syntax analysis**, National Natural Science Foundation of China (61876116), 2019.01-2022.12, participant.
 
-* **Cross-domain Chinese sentence semantic analysis with multi-source knowledge**, National Natural Science Foundation of China, 2022.01-2025.12, participant.
+* **Cross-domain Chinese sentence semantic analysis with multi-source knowledge**, National Natural Science Foundation of China (62176173), 2022.01-2025.12, participant.
 
-* **Unified representation and analysis of word-level and sentence-level Chinese dependency structures**, National Natural Science Foundation of China, 2024.12-present, participant.
+* **Unified representation and analysis of word-level and sentence-level Chinese dependency structures**, National Natural Science Foundation of China (62306202), 2024.12-present, participant.
 
-* **Correction and interpretation of complex Chinese text errors based on large language models**, National Natural Science Foundation of China, 2025.12-present, participant.
+* **Correction and interpretation of complex Chinese text errors based on large language models**, National Natural Science Foundation of China (62576237), 2025.12-present, participant.
 
 ### Teaching
 
