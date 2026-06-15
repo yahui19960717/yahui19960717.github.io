@@ -7,7 +7,7 @@ layout: default
 👋 Hi, my name is **Yahui Liu (刘亚慧)**.
 
 - 🎓 I am a Ph.D. student at [SUDA-HLT](https://github.com/SUDA-LA), Soochow University.
-- 👨‍🏫 I am co-advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
+- 👨‍🏫 I am co-advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
 - 🌱 My research focuses on natural language processing, especially syntax and semantics, semantic role labeling, frame semantic parsing, corpus construction, and annotation data quality.
 - 🧐 I am interested in building reliable linguistic resources and robust NLP methods for syntax and semantic analysis. I am also exploring LLM-assisted programming and human-AI collaborative creation for interactive content generation, including vibe-coding games developed by the Tenure-Track Simulator team.
 
