@@ -13,6 +13,12 @@ layout: default
 
 ### Publications
 
+* **LLM-assisted Data Quality Improvement: SRL as a Case Study** <br>
+  Lijie Wang, *__Yahui Liu__, Yue Zhang, Zhenghua Li* <br>
+  **EMNLP 2026 (EMNLP findings)** <br>
+  [![paper]()](https://openreview.net/pdf?id=bsyVC0QmjB)
+  be organizing
+  
 * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
   *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br>
   **ESWA 2025 (SCI Q1, CAS Q1)** <br>
