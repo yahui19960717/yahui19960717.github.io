@@ -15,7 +15,7 @@ permalink: /zh/
 ### 论文成果
 
 * **LLM-assisted Data Quality Improvement: SRL as a Case Study** <br>
-  *Lijie Wang†, *__Yahui Liu†__, Yue Zhang, Zhenghua Li* <br>
+  *Lijie Wang†, __Yahui Liu†__, Yue Zhang, Zhenghua Li* <br>
   **EMNLP 2026 findings (CCF-B)** <br>
   [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://openreview.net/pdf?id=bsyVC0QmjB)
   
