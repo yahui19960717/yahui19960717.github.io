@@ -17,7 +17,7 @@ permalink: /zh/
 * **LLM-assisted Data Quality Improvement: SRL as a Case Study** <br>
   *Lijie Wang†, __Yahui Liu†__, Yue Zhang, Zhenghua Li* <br>
   [共同第一作者（学生第一作者）]<br>
-  **Findings of EMNLP 2026  (CCF-B)** <br>
+  **EMNLP 2026  (CCF-B，Findings)** <br>
   [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://openreview.net/pdf?id=bsyVC0QmjB)
   
 * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
