@@ -15,8 +15,8 @@ layout: default
 
 * **LLM-assisted Data Quality Improvement: SRL as a Case Study** <br>
   Lijie Wang†, *__Yahui Liu†__, Yue Zhang, Zhenghua Li* <br>
-  **EMNLP 2026 (EMNLP findings)** <br>
-  Co-first author (first-listed student author) <br>
+  **EMNLP 2026 (CCF-B, Findings)** <br>
+  [Co-first author (first-listed student author)] <br>
   [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://openreview.net/pdf?id=bsyVC0QmjB)
   [![be organizing](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/POS_AED.git) 
   
