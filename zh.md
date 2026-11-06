@@ -18,7 +18,9 @@ permalink: /zh/
   *Lijie Wang†, __Yahui Liu†__, Yue Zhang, Zhenghua Li* <br>
   [共同第一作者（学生第一作者）]<br>
   **EMNLP 2026  (CCF-B，Findings)** <br>
-  [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://openreview.net/pdf?id=bsyVC0QmjB)
+  [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2026.findings-emnlp.1440.pdf)
+  [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://aclanthology.org/2026.findings-emnlp.1440.bib)
+  [![be organizing](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/LLM-srl-data-quality.git) 
   
 * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
   *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br>
